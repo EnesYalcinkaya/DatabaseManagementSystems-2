@@ -1,0 +1,14 @@
+Veri Tabanı Yönetim Sistemleri II Dersi 1.Hafta Ödevi
+223010710018 - Muhammed Enes Yalçınkaya 
+
+
+Ünite, genel olarak veri, veri modeli ve veri tabanı konularını ele almaktadır. Bu bölümün ilk kısmında, veri tabanlarının tarihçesine odaklanarak başlayacağız. Veri tabanları, 1960'lı yıllarda işletmeler için maliyet açısından daha uygun bir seçenek olarak kullanılmaya başlamıştır. Zaman içinde çeşitli krizler ve zorluklarla karşılaşmasına rağmen, veri tabanları günümüze kadar evrimleşmiş ve büyümüştür.
+
+Daha sonra, bu bölümde veri tabanlarıyla ilgili temel kavramlara odaklanacağız. Veri tabanlarını tanımlama, oluşturma ve işlem yapma gibi temel yetenekleri öğrenerek, veri tabanlarıyla daha iyi bir anlayış geliştireceğiz. Ayrıca, geleneksel dosya sistemleriyle veri tabanlarını karşılaştırarak, veri tabanı yönetim sistemlerinin çoğu açıdan neden tercih edildiğini inceleyeceğiz. Bu incelemelerde veri bütünlüğü, veri paylaşımı ve kullanımının kolaylığı gibi önemli avantajları göz önünde bulunduracağız. Ayrıca, veri gizliliği konusunda da modern veri tabanlarının daha güvenilir olduğunu vurgulayacağız.
+
+Bu birimin diğer bir önemli bölümü, veri tabanı çalışanları ve iş tanımları hakkında bilgi vermektir. Veri tabanlarıyla çalışan profesyonellerin rolleri ve sorumlulukları üzerinde durarak, bu alandaki kariyer fırsatlarına daha iyi bir bakış sunacağız.
+
+Son olarak, veri tabanı mimarisi ve oluşumuyla ilgili derinlemesine bilgi vereceğiz. Örneklerle bu konuları pekiştirerek, veri tabanlarının nasıl oluşturulduğunu ve nasıl çalıştığını daha iyi anlayacaksınız.
+
+Bu birim, veri ve veri tabanlarına dair temel kavramları anlamanıza ve veri tabanı yönetimi konusundaki temel yetenekleri geliştirmenize yardımcı olacaktır.
+
